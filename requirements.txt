@@ -1,0 +1,24 @@
+# LangGraph and LangChain
+langgraph>=0.2.0
+langchain>=0.3.0
+langchain-core>=0.3.0
+
+# HTTP client for Cisco Bridge API
+requests>=2.31.0
+httpx>=0.27.0
+
+# Email handling
+aiosmtplib>=3.0.0
+
+# Webex API
+webexpythonsdk>=2.0.0
+
+# Environment and configuration
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+
+# CLI
+typer>=0.12.0
+rich>=13.0.0
+
